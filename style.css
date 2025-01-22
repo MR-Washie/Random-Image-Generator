@@ -1,0 +1,19 @@
+
+img{
+    width: 362px;
+    margin: 5px;
+    border-radius: 10px;
+    
+}
+
+.more {
+    background-color: blue;
+    padding: 5px 10px;
+    color: white;
+    margin-left: 48.2%;
+    border-radius: 5px;
+}
+.more:hover {
+    background-color: rgba(0, 0, 255, 0.747);
+    cursor: pointer;
+}
